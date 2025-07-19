@@ -1,0 +1,10 @@
+[package]
+name = "gravity-wells"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.25.6"
+indicatif = "0.18.0"
+macroquad = "0.4.14"
+rayon = "1.10.0"
